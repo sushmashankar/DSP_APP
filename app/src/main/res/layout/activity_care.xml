@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/stressrelief"
+    tools:context=".Activity2">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How to be a resilient caregiver?!"
+        android:textStyle="bold"
+        android:textSize="15pt"
+        android:layout_centerVertical="false"
+        android:layout_centerHorizontal="false" />
+
+    <ImageButton
+        android:id="@+id/working"
+        android:layout_width="182dp"
+        android:layout_height="170dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="98dp"
+        app:srcCompat="@drawable/working"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageButton
+        android:id="@+id/stress"
+        android:layout_width="182dp"
+        android:layout_height="170dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="219dp"
+        android:layout_marginTop="205dp"
+        android:layout_marginEnd="10dp"
+        app:srcCompat="@drawable/stress"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+    <ImageButton
+        android:id="@+id/conflict"
+        android:layout_width="182dp"
+        android:layout_height="170dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="395dp"
+        app:srcCompat="@drawable/conflict"
+        tools:layout_editor_absoluteX="55dp"
+        tools:layout_editor_absoluteY="27dp" />
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:background="@drawable/background"
+    tools:context=".Activity2">
+
+     <TextView
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:text="LET US LEARN!"
+         android:textStyle="italic"
+         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large"
+         android:textSize="20pt"
+         android:layout_centerVertical="false"
+         android:layout_centerHorizontal="false" />
+
+     <ImageButton
+         android:id="@+id/communicate"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentStart="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginStart="36dp"
+         android:layout_marginTop="126dp"
+         app:srcCompat="@drawable/speak"
+         tools:layout_editor_absoluteX="55dp"
+         tools:layout_editor_absoluteY="27dp" />
+
+     <ImageButton
+         android:id="@+id/care"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentStart="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginStart="180dp"
+         android:layout_marginTop="281dp"
+         app:srcCompat="@drawable/caregiver"
+         tools:layout_editor_absoluteX="55dp"
+         tools:layout_editor_absoluteY="27dp" />
+
+     <ImageButton
+         android:id="@+id/disease"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignParentStart="true"
+         android:layout_alignParentTop="true"
+         android:layout_marginStart="43dp"
+         android:layout_marginTop="426dp"
+         app:srcCompat="@drawable/disease"
+         tools:layout_editor_absoluteX="55dp"
+         tools:layout_editor_absoluteY="27dp" />
+</RelativeLayout>

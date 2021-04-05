@@ -1,0 +1,146 @@
+<resources>
+    <string name="app_name">DSP App</string>
+    <string name="article_title">Choosing Your Words: Harnessing the Power of Communication </string>
+    <string name="article_subtitle"> Steps you may choose to take: </string>
+    <string name="article_text">
+        \n\n 1. Start by becoming clear. Slow down and listen to yourself. Listen to what you
+feel and need. \n
+
+       \n 2. Find calm. Wait until you feel less stress and more in control of your emotions so
+that you don’t react and communicate in a manner that you will regret. \n
+Make “I” statements. \n
+\n 3. Describe your observations. State what you see, hear, or notice, in specific
+terms without judgment. “I noticed___”, or “I observed___.” \n
+\n 4. Share your feeling using a one-word description of the emotion, such as “I feel
+sad, scared, worried, or confused.” \n
+\n 5. Next, add the need that that you have. “I feel ___ because I need or want ___.” \n
+
+
+    </string>
+    <string name="stress_title">10 signs of caregiver stress!</string>
+    <string name="stress_subtitle">Learn to recognize the signs</string>
+    <string name="stress_text">
+        \n \n 1. Anger \n
+    2. Lack of concentration \n
+        3. Denial \n
+        4. Anxiety \n
+        5.Social withdrawal \n
+        6. Depression \n
+        7. Exhaustion \n
+        8.Sleeplessness \n
+        9. Irritability \n
+        10. Untreatable health problems \n
+
+    </string>
+    <string name="working_title">Tips for working caregivers</string>
+    <string name="working_subtitle">Your caregiving role may be hard, even overwhelming, but
+there are steps you can take that may ease the burden.</string>
+    <string name="working_text"> \n \n
+        <b> Symptoms of Stress </b> \n
+<b> Health </b>: Many working caregivers report health problems, depression, lower productivity on the job,
+and lost time at work. If you are frequently distracted at work, emotionally drained, and physically
+exhausted, you are not alone. But do not ignore these symptoms. Recognizing them is the first step to
+finding solutions.\n
+
+<b> Relationships </b>: You may also find that you have let your social relationships slide. Many working
+caregivers cut back on community involvement and spend less time with their own families. If this is
+happening to you, make every effort to rekindle friendships and reconnect with your community—for
+example, through church or another group. You will be better able to deal with stress if you have a
+support network. \n
+        \n <b> Steps You Can Take  </b>\n
+1. Talk to your employer. Let your manager know your needs related to caregiving. Make it clear that
+you are committed to your job and want to find ways to remain productive. \n
+2. Resist isolation. Find support in and out of work. Join community caregiver groups for emotional
+support, and seek out local resources for help. Take advantage of resources, such as Lotsa Helping
+Hands, to coordinate caregiving tasks within your family and support network. \n
+3. Take care of yourself so that you can take care of others. As often as you can, get enough sleep. Eat
+sensibly, use alcohol in moderation, and exercise. Take a break when the pressure gets too great, even
+if it’s just a hot bath or a short walk. Walking with a buddy can cover two needs at once—friendship
+and exercise. \n
+Know Your Rights
+Consult with human resources about what you are entitled to under the law. The Family Medical Leave
+Act (FMLA) requires large employers to provide up to 12 weeks of unpaid time off with job protection
+when workers must care for a sick or injured parent. Some states have extended this coverage to include
+small businesses as well. \n
+
+        <b> Take Advantage of Benefits </b> \n
+• Ask about flexible-work options. This could mean a compressed work week or a modified
+daily schedule based on need. Job-sharing and telecommuting are also caregiver-friendly
+options to explore. Many employers offer flexible work options on a case-by-case basis even if
+there is no formal policy. \n
+• Contact your Employee Assistance Program (EAP) and find out what support services are
+available, such as counseling on reducing stress and managing your time.\n
+• Many companies offer access to eldercare referral services through an online database or live
+consultants. Such services reduce the burden of having to do distracting and time-consuming
+research. \n
+• Respectfully share information with your manager or HR on how employers can support
+working caregivers. \n
+Build a Support System
+• Connect with other caregivers at your place of work. It’s likely that some of your fellow
+workers face the same caregiving challenges. \n
+• Put in a request to human resources to sponsor brown bag lunches or an employee resource
+group to help with caregiving issues. Or you could organize your own informal group to meet
+during your lunch hour. \n
+• Thank your coworkers who take on extra assignments or help you with work projects. They
+are part of your community, too. \n
+• Make sure your manager knows about your accomplishments at work. This will show you are
+able to deal with multiple priorities. \n
+• Join the caregiving group on the AARP Online Community to share your story, get support,
+and connect with other caregivers. \n
+
+
+
+    </string>
+    <string name="conflict_title">Resolving Conflicts Related to Family Caregiving</string>
+    <string name="conflict_subtitle">The easiest way to avoid caregiving conflict is for a potential care receiver to plan in advance for the
+following issues</string>
+    <string name="conflict_text"> \n \n
+        <b> Healthcare decisions: </b>
+• Who should provide care? \n
+• What care is needed? \n
+• Who should make medical decisions?\n
+        <b>Financial decisions:</b> \n
+• How should money be spent?\n
+• How should investments be handled?\n
+• How will concerns over “unwise spending,” etc. be handled?\n
+        <b> Living arrangements: </b>\n
+• Where?\n
+• With whom?\n
+• Who decides?\n
+• How much independence / supervision is needed?\n
+        <b> Communication issues: </b>\n
+• What information is needed or missing?\n
+• Who has legal authority to access information?\n
+• How will information be shared with those who need it?\n
+        <b> Family relationship issues: </b> \n
+• How should the family deal with sibling rivalries, new spouse or companion, death of a
+spouse/caregiver, other changes in the relationship?\n
+        <b> Decision – making: </b> \n
+• Who should have authority to make decisions?\n
+• What input (if any) should others have?\n
+• How can decision makers obtain input from the care receiver?\n
+
+
+
+    </string>
+    <string name="disease_title">Understanding Diseases</string>
+    <string name="dementia_text">What can I do to prepare myself now?
+These are several things you can do ahead of time, when things are calmer, to get ready to respond to the \n
+kinds of events that a natural disaster or an act of terrorism might trigger.\n
+Being mentally and emotionally prepared is the best way to reduce the effects of natural disaster or
+terrorism. Disaster disrupts our way of life and peace of mind. It can make us feel unsafe and afraid. This
+may increase feelings of mistrust and prejudice. You may find you react in different ways to stressful
+events. You may change who you will talk to, trust, or where you travel, or how you spend money.
+Sometimes feelings of hate towards others arise and lead to violence. This can destroy families and
+community life.
+Although seniors have great strength from life experiences, planning ahead can help decrease the risk of
+harm in an emergency. When planning ahead ask yourself the following questions:
+• Do I tire easily?
+• Do I need help to see, hear, or walk?
+• Do I need to care for another person?
+• Do I take daily medication?
+Being mentally and emotionally prepared includes knowing:
+• What to expect
+• When help is needed
+• How to get help</string>
+</resources>
